@@ -10,4 +10,5 @@ const removeDuplicates = (params: Array<number>): void => {
   console.log(unique);
 };
 
+//sample Input
 removeDuplicates([1, 2, 2, 3, 4, 4, 5]);
